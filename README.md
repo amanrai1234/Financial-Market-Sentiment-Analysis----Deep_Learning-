@@ -1,0 +1,6 @@
+![LSTM vs BERT_page-0001](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/00569b1f-2d39-40c5-bc1a-cc7226dc2459)
+![LSTM vs BERT_page-0002](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/a5ca8f61-b97f-4bee-ad62-c9e17c74ccd6)
+![LSTM vs BERT_page-0003](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/60bab205-487f-48d4-977a-8d98713447d2)
+![LSTM vs BERT_page-0004](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/70ccded2-c84d-4394-8bfd-996a00367bec)
+![LSTM vs BERT_page-0005](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/f565bea5-b307-4e61-8299-766fdb9f2040)
+![LSTM vs BERT_page-0006](https://github.com/amanrai1234/Finance-Deep-Learning-LSTM-vs-BERT-evaluation/assets/37281887/5528ad95-edb2-4503-871b-94f760a809ff)
